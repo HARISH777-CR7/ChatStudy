@@ -110,7 +110,7 @@ while True:
 conn.close()
 server.close()
 ```
-## CLIENT CHAT:
+## CLIENTCHAT PROGRAM:
 ```
 import socket
 
@@ -142,7 +142,10 @@ client.close()
 ```
 
 ## Result:
+
 <img width="1165" height="1077" alt="Screenshot 2026-04-29 112636" src="https://github.com/user-attachments/assets/611d98ef-b5e3-43b7-b55d-9cd768231d11" />
+
+
 
 
 <img width="1116" height="1013" alt="Screenshot 2026-04-29 112653" src="https://github.com/user-attachments/assets/1ab8fa1d-362c-4800-aee8-f434cc044cb0" />
